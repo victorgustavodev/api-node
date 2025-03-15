@@ -18,8 +18,3 @@ app.use('/', publicRoutes)
 
 app.listen(PORT, () => console.log(`O servidor está rodando 🚀`));
 
-
-// user: yvictory01
-// pass: root
-
-// mongodb+srv://yvictory01:<db_password>@test.vvb2n.mongodb.net/?retryWrites=true&w=majority&appName=Test
