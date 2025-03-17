@@ -4,3 +4,4 @@ Criação de API para fins de estudos utilizando:
 - MongoDB (Banco de dados NoSQL)
 - Bcrypt (Biblioteca para hash)
 - Thunder Client (Gerenciador HTTP)
+- JWT - JsonWebToken (Autenticação)
